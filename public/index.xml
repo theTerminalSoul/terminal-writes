@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Project</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2026 00:20:28 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test 1 Log</title>
+      <link>http://localhost:1313/posts/test-1-log/</link>
+      <pubDate>Tue, 01 Sep 2026 00:20:28 +0530</pubDate>
+      <guid>http://localhost:1313/posts/test-1-log/</guid>
+      <description>&lt;p&gt;This is the Test Drive for Blog
+Starting With Quote
+&amp;ldquo;Every step you take is the evidance that story your mind is making is not true&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
